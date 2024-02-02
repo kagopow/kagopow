@@ -36,9 +36,6 @@ rpcallowip=127.0.0.1
 
 # NODE CONFIGURATION
 addnode=159.223.80.240
-addnode=108.61.149.178:47652
-addnode=45.77.153.55:52546
-addnode=203.175.100.86:63034
 ```
 
 Build
