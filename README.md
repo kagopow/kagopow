@@ -14,7 +14,6 @@ Welcome to Kagopow
 **Initial block reward (POS):** | 20 KAGO
 **Algorithm:** | Scrypt (Proof of Work and Proof of Stake)
 **Premine:** | 100000 KAGO
-**Algorithm:** | Scrypt (Proof of Work and Proof of Stake)
 **Coinbase maturity** | 20 (+ 1 default confirmation) blocks
 **Target spacing** | 2 Minutes
 **Target timespan** | 10 Minutes
