@@ -2,9 +2,9 @@ Welcome to Kagopow
 ===========================
 
 # Wallets
-- [Download Kagopow Core wallet for Windows](#)
-- [Download Kagopow Core wallet for Macos](#)
-- [Download Kagopow Core wallet for Ubuntu](#)
+- [Download Kagopow Core wallet for Windows](https://github.com/kagopow/kagopow/releases/download/v1.0.0/kagopow-1.0.0-win64-setup.exe)
+- [Download Kagopow Core wallet for Macos](https://github.com/kagopow/kagopow/releases/tag/v1.0.0)
+- [Download Kagopow Core wallet for Ubuntu](https://github.com/kagopow/kagopow/releases/download/v1.0.0/kagopow-x86_64-pc-linux-gnu.tar.gz)
 
 # Coin specifications:
 &nbsp; | &nbsp;
@@ -26,8 +26,8 @@ kagopow.conf configuration:
 ```
 listen=1
 server=1
-rpcport=9492
-port=9493
+rpcport=9392
+port=9393
 rpcuser=(your_rpc_username)
 rpcpassword=(your_rpc_password)
 rpcconnect=127.0.0.1
@@ -52,5 +52,5 @@ make check -j$(nproc)
 License
 -------
 
-Kagopow Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
+Kagopow Core is released under the terms of the MIT license. See [https://raw.githubusercontent.com/kagopow/kagopow/main/COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
