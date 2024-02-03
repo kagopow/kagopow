@@ -44,8 +44,7 @@ Build
 ./contrib/installdb4.8.sh `pwd` && \
 export BDB_PREFIX=$PWD/db4 && \
 ./configure BDB_LIBS="-L${BDB_PREFIX}/lib -ldb_cxx-4.8" BDB_CFLAGS="-I${BDB_PREFIX}/include" && \
-make -j$(nproc) && \
-make check -j$(nproc)
+make -j$(nproc)
 ```
 
 
